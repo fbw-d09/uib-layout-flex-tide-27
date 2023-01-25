@@ -13,3 +13,11 @@ div {
   border: 2px solid red;
   text-align: center;
 }
+
+.conteiner{
+  width: 90%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  
+}
